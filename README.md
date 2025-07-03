@@ -1,10 +1,10 @@
 # AI Favicon Generator
 
-[![Built with Google AI Studio](https://ai.google.dev/)
+[Built with Google AI Studio](https://aistudio.google.com/)
 
 A modern web application that leverages the Google Gemini API to generate professional application icons from a text prompt and exports them as a ready-to-use favicon package.
 
-![AI Favicon Generator Screenshot](https://storage.googleapis.com/maker-suite-pro-storage/project_screenshots/aifavicon.png)
+![AI Favicon Generator Screenshot](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f288zpm3xg3ebkwhv9ng.png)
 
 ## ✨ Features
 
