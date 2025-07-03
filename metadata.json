@@ -1,0 +1,6 @@
+{
+  "name": "AI Favicon Generator",
+  "description": "An application that uses AI to generate application icons from a text prompt and exports them as a ready-to-use favicon package.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
